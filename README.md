@@ -1,4 +1,4 @@
-[![Header](https://github.com/hichemBAALI/hichemBAALI/blob/main/github_header_trans_up.png)]()
+[![Header](https://github.com/hichemBAALI/hichemBAALI/blob/main/hichem_github.jpg)]()
 
 <p align="center">
 <a href="https://www.facebook.com/hichem.bili/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/facebook-logo-2019-1597680-1350125.png" width="25"/><a/>
@@ -16,7 +16,7 @@ Mobile Developer with +6 years of hands-on experience designing, developing, and
 <h3>My Skills<h3/>
 <h4>Mobile development<h4/>
   <p>
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50" padding="10"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/android-2719784-2265530.png" width="60" padding="10"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/app-store-461590.png" width="50" padding="10"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100" padding="10"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/android-2719784-2265530.png" width="100" padding="10"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/app-store-461590.png" width="100" padding="10"/>
   </p>
