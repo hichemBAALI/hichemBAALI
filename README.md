@@ -8,10 +8,10 @@
 <a href="https://www.linkedin.com/in/hichem-baali-16790b11a/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="35"/><a/>
 </p>
 </div>
-<h3>BE ORIGINAL</h3>
-<p>Hi, i'm Hichem BAALI. I'm a Mobile Developer</p>
+<h3>Hichem BAALI</h3>
+<p>HELLO WORLD. I'm a Mobile Developer</p>
 <p>
-Mobile Developer with +6 years of hands-on experience designing, developing, and implementing mobile applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a mobile developer.
++6 years of hands-on experience designing, developing, and implementing mobile applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a mobile developer.
 </p>
 
 <h3>My Skills<h3/>
