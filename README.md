@@ -17,7 +17,6 @@ Mobile Developer with +6 years of hands-on experience designing, developing, and
 <h4>Mobile development<h4/>
   <p>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50"/>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F72465217%2FAndroid-Studio&psig=AOvVaw0A-IvxyPxCIWVqm8_ql1KR&ust=1614632819524000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjq3pS-je8CFQAAAAAdAAAAABAD" width="100"/>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.apple.com%2Ffr%2Fapp%2Fxcode%2Fid497799835%3Fmt%3D12&psig=AOvVaw0k1Gu8DLtIi83W22oa6D_Z&ust=1614632888065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCggrq-je8CFQAAAAAdAAAAABAD" width="50"/>
-   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="50"/>
+    <img src="https://iconscout.com/icon/android-2719784" width="50"/>
+    <img src="https://iconscout.com/icon/app-store" width="50"/>
   </p>
