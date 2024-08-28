@@ -1,9 +1,9 @@
 <div align="center" style="text-align:center;">
-  <img src="https://github.com/hichemBAALI/hichemBAALI/blob/main/hichem_github.jpg" width="150" alt="Hichem BAALI" style="border-radius: 50%; border: 2px solid #ddd; box-shadow: 0px 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://github.com/hichemBAALI/hichemBAALI/blob/main/hichem_github.jpg" width="150" alt="Hichem BAALI" style="border-radius: 50%;"/>
 
   <h1 style="font-family: 'Arial', sans-serif; color: #2c3e50; margin-top: 20px;">Hichem BAALI</h1>
 
-  <p style="font-style: italic; color: #7f8c8d;">Hello World. I'm a Software Team Lead.</p>
+  <p style="font-style: italic; color: #7f8c8d;">I'm a Software Engineer - Team Lead.</p>
 
   <div style="margin: 20px 0;">
     <a href="https://www.facebook.com/hichem.bili/" target="_blank">
