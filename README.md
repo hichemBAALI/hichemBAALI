@@ -18,7 +18,7 @@
   </div>
 
   <p style="font-size: 16px; line-height: 1.6; max-width: 600px; margin: 0 auto; color: #34495e;">
-    With over 6 years of experience in leading software development teams, I specialize in building scalable, high-performance applications using modern technologies. My expertise spans across front-end and back-end development, with a strong focus on creating seamless user experiences and efficient server-side architectures. I'm passionate about mentoring developers, driving innovation, and delivering impactful software solutions.
+    With over 8 years of experience in leading software development teams, I specialize in building scalable, high-performance applications using modern technologies. My expertise spans across front-end and back-end development, with a strong focus on creating seamless user experiences and efficient server-side architectures. I'm passionate about mentoring developers, driving innovation, and delivering impactful software solutions.
   </p>
 
   <h2 style="color: #2980b9; margin-top: 40px;">My Skills</h2>
